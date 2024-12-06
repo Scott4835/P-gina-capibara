@@ -1,0 +1,64 @@
+#V1{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    object-fit: cover;
+}
+#D1{
+    width: 200px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: cursive; 
+}
+#D2{
+    width: 800px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: cursive; 
+    float: left;
+}
+#D3{
+    width: 800px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: cursive; 
+    float: right;
+}
+#D4{
+    width: 800px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 21px;
+    font-family: cursive; 
+    float: left;
+}
+#D5{
+    width: 800px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 21px;
+    font-family: cursive; 
+    float: right;
+}
+
